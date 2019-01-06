@@ -53,3 +53,4 @@
  
 4.运行nginx 
     /Users/charles/work/openresty/nginx/sbin/nginx
+5.浏览器打开访问 http://localhost/index
